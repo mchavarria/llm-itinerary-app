@@ -1,0 +1,2 @@
+# Product Overview
+A mobile-first, local-first web application designed to solve the problem of travel confirmations buried in email inboxes. By utilizing a Bring-Your-Own-Key (BYOK) LLM extraction approach, the app securely parses selected email folders (Gmail/Outlook) entirely client-side and renders a clean, chronological timeline of travel events (accommodations and transportation).
