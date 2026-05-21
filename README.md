@@ -225,3 +225,5 @@ interface IStorageRepository {
  Composable Pipeline: Adding a ⁠StripHTMLStep⁠, ⁠RemoveQuotedTextStep⁠, or ⁠PIIRedactionStep⁠ before the LLM call to save tokens and improve privacy.
  Local LLMs: Transitioning from BYOK APIs to WebGPU-based local models (e.g., WebLLM with Llama-3-8B) for 100% offline, free, and private extraction.
  Export: Generating ⁠.ics⁠ files for users to manually import into their calendars.
+
+This is a test commit.
